@@ -1,0 +1,39 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1701292761189
+	},
+	"usage": true,
+	"analytics-uuid": "c5c8d1b4-22d7-423c-aa30-f9e0f777c638",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "105070553876781072480",
+		"hd": "chitkara.edu.in",
+		"email": "alisha0142.be21@chitkara.edu.in",
+		"email_verified": true,
+		"at_hash": "yf7nrdiGlZuFYni_UAZ-0w",
+		"iat": 1701292773,
+		"exp": 1701296373
+	},
+	"tokens": {
+		"expires_at": 1701336371692,
+		"refresh_token": "1//0ghXFJHZWd-BzCgYIARAAGBASNwF-L9IrRKFHl33mkOv2m_IHQXIZaJm6lsMgtifUkEvHb50F8pb12tt8pRqFvFOkFzadYdDMtOA",
+		"scopes": [],
+		"access_token": "ya29.a0AfB_byDI4trTxZAPGAh1oXePJEWaPzOftgnXbHNB8gDb6UsqTQQTXKYKJ8y1VPmtDK74IOpqFNku3whwP1TZeX2zF3_Wu0YQ-2OYNySJWUIKCENX9gLEU_-FC_-_adr-I3SJwAgxogvWfrN9Q9LF0HWMXOd7uC21fQvJuF-ulTUaCgYKAcISARMSFQHGX2Miw4ubxx2RnIMAQBlaglvctQ0178",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBlNzJkYTFkZjUwMWNhNmY3NTZiZjEwM2ZkN2M3MjAyOTQ3NzI1MDYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1MDcwNTUzODc2NzgxMDcyNDgwIiwiaGQiOiJjaGl0a2FyYS5lZHUuaW4iLCJlbWFpbCI6ImFsaXNoYTAxNDIuYmUyMUBjaGl0a2FyYS5lZHUuaW4iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImhodGtzWjYtZkt6NW83U2xpN0ZvX1EiLCJpYXQiOjE3MDEzMzI3NzIsImV4cCI6MTcwMTMzNjM3Mn0.DdFxyHn-V-hpby-im0tqBwmJgw0D23ISi_poNw4TYqkB4e9ADckNsfQyEgSf79_6Uzo73x16CN6DVFTqgjZ4hpWafI1agz6n8yZxMSqzMICxTQut2V4ZWcFnMnIzxLyjLSz4gIb7e3sz5S5SQcv7ZGBxZtElRov2FU3GLuQS5zPxMgwKPR-0_GeKX9IpSXW3Ek_QSaPsf3f92qgKcm9TcjdJPiR-n_vLdoTmtXzeXmCc1N27zD7FUAS6jikmTHODyqMO9b46vi7ajyfUPECRuNWf8IfYNjKh4yjG0Taipjyo3DdSVvACJ6D31Zbd9QdhVVgyxD3v4WLh2YRWUmkK-g"
+	},
+	"activeProjects": {
+		"/Users/alishagupta/Desktop/abc/netflx": "netflix-gpt-de617"
+	}
+}
